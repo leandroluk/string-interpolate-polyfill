@@ -1,0 +1,27 @@
+{
+  "name": "string-interpolate-polyfill",
+  "displayName": "Polyfill - String Interpolate",
+  "description": "Inject mustache.render method as interpolate function to string primitive type",
+  "version": "1.0.1",
+  "homepage": "https://github.com/leandroluk/string-interpolate-polyfill.git",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "license": "ISC",
+  "author": {
+    "name": "Leandro Santiago Gomes",
+    "email": "leandroluk@gmail.com",
+    "url": "https://www.linkedin.com/in/leandroluk"
+  },
+  "keywords": [
+    "string",
+    "interpolate",
+    "mustache",
+    "leandroluk"
+  ],
+  "devDependencies": {
+    "@types/mustache": "^4.2.5"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
